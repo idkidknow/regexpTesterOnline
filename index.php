@@ -49,6 +49,7 @@ function replaceSpecial($str)
     $str=nl2br($str);
     $str=str_replace(" ","&nbsp",$str);
     $str=str_replace("<? ","< ?",$str);
+    $str=str_replace("\n","<br />",$str);
     return $str;
 }
 
