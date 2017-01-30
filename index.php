@@ -6,9 +6,9 @@
                                      initial-scale=1.0, 
                                      maximum-scale=1.0, 
                                      user-scalable=no">
-  <link rel="stylesheet" href="http://cdn.bootcss.com/bootstrap/3.3.4/css/bootstrap.min.css">  
-  <script src="http://cdn.bootcss.com/jquery/2.1.4/jquery.min.js"></script>
-  <script src="http://cdn.bootcss.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="./css/bootstrap.min.css">  
+  <script src="./js/jquery.min.js"></script>
+  <script src="./js/bootstrap.min.js"></script>
 	
 </head>
 <div class="container">
@@ -19,7 +19,7 @@
 					<a href="./index.php">正则表达式测试器</a>
 				</li>
 				<li>
-					<a href="./source.html">源代码下载</a>
+					<a href="https://github.com/idkidknow/regexpTesterOnline">源代码下载</a>
 				</li>
 			</ul>
 <form role="form" action="./index.php" method="get">
