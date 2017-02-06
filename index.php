@@ -1,6 +1,6 @@
 <?php header("Content-Type: text/html;charset=utf-8");?>
 <head>
-  <title>在线正则表达式测试器 - 奇逸</title>
+  <title>在线正则表达式测试器</title>
   <meta http-equiv="Content-Type"content="text/html; charset=utf-8">
   <meta name="viewport" content="width=device-width, 
                                      initial-scale=1.0, 
